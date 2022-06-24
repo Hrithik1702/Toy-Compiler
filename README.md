@@ -22,7 +22,7 @@ A Compiler with syntax analyser and semantic analyser for C-like Language.
 ## Installation of LEX and YACC
     sudo apt-get install bison flex
     
-## Commands to Executing LEX Program
+## Commands to Execute LEX Program
     lex lexfile.l
     cc lex.yy.c -lfl
     ./a.out
